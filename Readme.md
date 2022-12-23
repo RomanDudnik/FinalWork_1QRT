@@ -15,6 +15,8 @@
 
 ![](FinalWork_Diagram.jpg)
 
-2)
+2) Пишем программу на языке C#:
+
+* создаем файл Program.cs
 
 
